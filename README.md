@@ -25,9 +25,10 @@ Interface featuring real-time cards, commodity trends, case distribution, and st
 File: IHHPET.csv (Contains state-wise daily statistics).
 Fields: Confirmed, Recovered, Deceased, Hospitalised, Medical Supplies (Masks/Oxygen), and Zone Data.
 
-🚀Main Features
-Real-time KPI Cards: High-level summary of current pandemic status.
-Commodities Trend: Visualization of medical supply demands across states.
-Distribution Charts: Pie charts showing the ratio of Confirmed vs Recovered vs Deceased.
-State-wise Breakdown: Comprehensive bar graphs comparing case counts across India.
+🚀 Main Features
+Real-time KPI Cards: High-level summary showing the current pandemic status across the nation.
+Commodities Total Count: A detailed visualization tracking the total volume of essential medical supplies like masks and oxygen.
+Case Distribution: Interactive pie charts illustrating the proportional ratio of Confirmed, Recovered, and Deceased cases.
+State-wise Analysis: Comprehensive bar graphs providing a regional breakdown and comparison of COVID-19 cases across Indian states.
+
 
