@@ -2,7 +2,8 @@
 
 A data-driven interactive web application built with Dash and Plotly to monitor the COVID-19 landscape in India. This project translates raw data into actionable insights through dynamic visualizations.
 
-![Dashboard Preview](screenshots/Dashboard%20Preview.png)
+ 📊 Project Preview
+![Dashboard Screenshot](screenshots/Screenshot%202026-03-09%20080214.png)
 
 
 Interface featuring real-time cards, commodity trends, case distribution, and state-wise analysis.
