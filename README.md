@@ -4,8 +4,7 @@ An interactive, real-time web application built to monitor and visualize Coronav
 
 ## 🌐 Live Demo
 You can access the live dashboard here:
-👉 **[Live Project on Render](https://covid19-india-dash-app.onrender.com)** 
-*(Note: Replace this link with your actual Render URL)*
+👉 **[Live Project on Render](https://covid19-india-dash-app.onrender.com)**
 
 ---
 
@@ -32,9 +31,9 @@ You can access the live dashboard here:
 ## 📂 Project Structure
 
 ```text
-├── screenshots/                
-├── app.py                     
-├── state_wise_daily data file IHHPET.csv 
-├── requirements.txt            
-├── Procfile                 
-└── README.md               
+├── screenshots/                # Dashboard preview images
+├── app.py                      # Main application code
+├── state_wise_daily data file IHHPET.csv # Pandemic statistics dataset
+├── requirements.txt            # Python dependencies
+├── Procfile                    # Deployment configuration for Render
+└── README.md                   # Project documentation
